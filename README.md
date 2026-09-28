@@ -1,12 +1,7 @@
 <div class="center">
 
-# !!ATTENTION!!
 
-# Avant de commencer quoi que ce soit, ajoutez vos noms et matricules dans `names.txt`! Vérifiez avec `name_validator.py` que le format est ok!
-
-# NE MODIFIEZ RIEN DANS LE DOSSIER `test`! SI NOUS DÉTECTONS UNE MODIFICATION, VOUS AUREZ LA NOTE 0
-
-# TP1: Shell
+# Shell
 
 </div>  
 
@@ -21,7 +16,7 @@ accessibles à l'utilisateur sont appelées en arrière-plan.
 
 # Introduction
 
-Ce TP vise à vous familiariser avec la programmation système dans un
+la programmation système dans un
 système d’exploitation de style POSIX.
 
 Vous devrez implémenter un terminal/shell typique Linux. Comme tous les
@@ -30,7 +25,7 @@ autres shell, il devra pouvoir appeler des commandes linux typiques
 commandes bash pour agencer le lancement de plusieurs programmes en même
 temps.
 
-Ce TP sera moins explicite sur le *comment* implémenter les menues
+cette application sera moins explicite sur le *comment* implémenter les menues
 fonctions qui permettront de compléter le travail. En effet, c’est ce
 *comment* qui est la difficulté du travail, pas les petites fonctions.
 
@@ -174,27 +169,4 @@ a exécuté (autrement dit, si lors de `r40(<command>)`, seulement le 40e appel 
 
 Le N dans rN peut être n'importe quel entier positif (entrant dans un int).
 
-## Barème
-
--   Votre note sera divisé équitablement entre chaque question, sauf la question 0. Cette dernière
-vaut 0 points, mais ne pas la faire entraîne une note de 0. Il faut la faire avant toute chose.
-
--   Tout usage de matériel (code ou texte) emprunté à quelqu’un d’autre
-    (trouvé sur le web, etc.) doit être dûment mentionné, sans quoi cela
-    sera considéré comme du plagiat. Si pour une question votre solution
-    est directement copiée, même si il y a attribution de la source,
-    cette question se verra attribuée la note de zéro. Vous pourrez
-    cependant l’utiliser dans les sections suivantes sans pénalité.
-
--   Votre devoir sera corrigé automatiquement en très grande partie. Si
-    vous déviez de ce qui est demandé en output, les points que vous
-    perdrez seront perdus pour de bon. Si vous n’êtes pas certains d’un
-    caractère demandé, demandez, et nous répondrons
-    de façon à ce que chaque étudiant puisse voir la réponse.
-
--   La méthode de développement recommandée est d’utiliser CLion et son
-    intégration avec Valgrind. Si vous voulez utiliser d’autres
-    techniques, vous pouvez le faire, mais nous ne vous aiderons si vous
-    rencontrez des problèmes avec ces techniques.
-
-- Les barèmes standards du [TPX](https://github.com/IFT2245/TPX) s'appliquent (fuites mémoires, accès illégaux, etc).
+émoires, accès illégaux, etc).
