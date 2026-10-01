@@ -33,15 +33,9 @@ Les fonctions proposées et les squelettes donnés dans `main.c` sont totalement
 Si votre shell fait ce qui est demandé, vous aurez tous les points, que vous ayez utilisé le code donné
 ou non.
 
-**Attention!** Comme c’est une fonctionnalité si standard d’un OS, il
-existe des fonctions déjà implémentées en C qui feraient essentiellement
-tout ce TP pour vous. Dès que nous trouverons une telle fonction dans
-votre remise, vous aurez la note de zéro.
-
 # Où coder votre shell?
 
-Notez qu'il n'y a pas de balise de regex dans ce TP (surnommé "Jeff" par vos 
-magnifiques TPistes). Ceci implique que votre fonction `main` __***doit***__ avoir
+ Ceci implique que votre fonction `main` __***doit***__ avoir
 le comportement attendu, et appeler votre shell correctement. Pour la remise, vous ne pouvez y placer
 des tests ou d'autres artéfacts.
 
